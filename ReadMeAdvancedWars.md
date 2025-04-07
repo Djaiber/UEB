@@ -13,6 +13,11 @@ A Java-based web implementation of the classic turn-based strategy game featurin
 - [API Documentation](#-api-documentation)
 - [License](#-license)
 
+![Build](https://img.shields.io/github/actions/workflow/status/yourusername/advanced-wars-clone/ci.yml)
+![License](https://img.shields.io/github/license/yourusername/advanced-wars-clone)
+![Java](https://img.shields.io/badge/Java-17-blue)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
+
 ## 🎮 Core Features
 
 ### Pathfinding System

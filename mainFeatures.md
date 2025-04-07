@@ -1,4 +1,6 @@
-📊 Core Game Systems Characteristics
+***📊 Core Game Systems Characteristics***
+
+
 
 | System            | Functionality                                                                 | Technical Approach              |
 |-------------------|------------------------------------------------------------------------------|---------------------------------|
